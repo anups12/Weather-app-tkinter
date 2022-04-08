@@ -1,1 +1,2 @@
 # jwt
+tkinter, pillow  
